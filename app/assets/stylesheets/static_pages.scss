@@ -3,6 +3,9 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 .powered-by {
-	clear:both;
-	float:right;
+	position:absolute;
+	top:150px;
+	right:0px;
+	font-size:0.5em;
 }
+.powered-by img { height:45px;}
