@@ -112,3 +112,13 @@ footer {
   margin-top: 45px;
   @include box_sizing;
 }
+
+.flash {
+  margin:auto;
+  background:rgba(255,20,10,0.2);
+  border: rgba(255,20,10,0.6) solid 2px;
+  text-align:center;
+  line-height:42px;
+  max-width:60%;
+  padding:0.5em;
+}
